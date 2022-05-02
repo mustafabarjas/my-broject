@@ -1,2 +1,2 @@
-# my-broject
-for push my broject
+# my-project
+for push my project
